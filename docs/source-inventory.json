@@ -1,0 +1,3593 @@
+{
+  "version": 1,
+  "sourceRepository": "zn546612432-cloud/BBBTAI",
+  "sourceCommit": "595dd14ab58169c2aa8656fc3d3ad7d980063d07",
+  "note": "Inventory only; no source files have been migrated to this repository.",
+  "files": [
+    {
+      "source": "public/apps/browser/aodong/products.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/cinema.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/corporate.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/macau.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/snapshots/chatgpt.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/snapshots/github.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/snapshots/network.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/snapshots/tempmail.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/browser/snapshots/ticketing.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/NOTICE.txt",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/bB.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/bK.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/bN.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/bP.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/bQ.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/bR.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/wB.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/wK.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/wN.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/wP.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/wQ.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/chess/pieces/wR.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/maps/macau-offline.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/mirage/README.md",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/mirage/skull.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/mirage/world-land.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/README.md",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/awei.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/fulongsheng.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/hufeng.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/xiaoxin.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/ximeng.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/xiwang.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/avatars/originals/zaizai.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/D03-SOURCES.md",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/D04-SOURCES.md",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/SOURCES.md",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/awei-arm-20240324.jpg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/cat-20240320.mp4",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/cat-video-cover.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/d03-breakfast.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/d03-computer.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/d03-street.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/d04-cat.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/d04-jacket.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/dog-20240322.mp4",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/dogs-20240329.mp4",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/fabric-swatches.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/hufeng-20240510.jpg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/hufeng-mirror.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/hufeng-outdoors.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/macau-dawn.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/macau-morning.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/moment-0.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/moment-1.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/moment-2.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/moment-3.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/moment-4.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/moment-5.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/moment-cat-video.mp4",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/shumai.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-dinner-dish.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-food-cheesecake.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-food-cooking.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-food-menu.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-food-rice.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-food-sashimi.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-food-scallop.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-fountain.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-group-photo.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-hufeng-arcade.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-park.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-wynn-fountain.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-wynn-night.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-xiaoxin-ximeng.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-ximeng-brothers.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-xiwang-ximeng.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/user-yellow-wall.jpeg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/xiaoxin-mirror-clean.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/xiaoxin-selfie-clean.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/media/zaizai-fashion-design.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/stickers/ATTRIBUTION.md",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/stickers/dog.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/stickers/whitecat.webp",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/apps/wechat/ximeng-avatar.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-icon.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-source/address.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-source/avatar.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-source/settings.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-source/support.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-source/tab-delivery.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-source/tab-me.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/aomi-source/tab-orders.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/LICENSE",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/accessibility.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/alarm-clock.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/arrow-down.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/arrow-left.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/battery.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/bell.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/bluetooth.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/calendar.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/check.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/chevron-right.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/circle-check.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/clock.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/focus.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/folder.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/globe.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/hard-drive.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/headphones.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/house.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/image.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/library.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/link.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/list.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/mail.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/mic.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/moon.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/music.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/pause.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/pen-line.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/plane.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/play.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/repeat.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/search.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/settings.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/shield.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/shuffle.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/signal.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/skip-back.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/skip-forward.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/smartphone.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/timer.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/user.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/volume-2.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/lucide/wifi.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/mark.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/night.wav",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/story55/triplets-baby-photo.jpg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/story55/ximeng-final-keywords.mp3",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/assets/tai-portrait.svg",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/ghost-preview.html",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/icons/glass-atlas.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/icons/glass-utilities.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/licenses/FoundPhone-Studio-MIT.txt",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/runtime-config.js",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/vendor/leaflet/leaflet.css",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/vendor/leaflet/leaflet.js",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/voice-lab/claude-report.html",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/voice-lab/index.html",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/voice-lab/panel.css",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/voice-lab/panel.js",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/voice-lab/tai-claude-sample.mp3",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "public/wallpapers/midnight-glass.png",
+      "disposition": "asset",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/build-moments-preview.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/build-offline-macau-preview.py",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/build-offline-macau.py",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/build-pages.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/build-pre-d01-history.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/build.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/install-story55-media.py",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/optimize-icon-atlases.py",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/render-offline-macau-image.py",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "scripts/verify-offline-map-browser.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "server/ai-gateway.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "server/dev.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "server/mcp-tai-phone-stdio.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/aomi/features/home/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/aomi/features/login/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/aomi/features/orders/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/aomi/features/profile/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/aomi/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/aomi/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/bank/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/aodong-legacy.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/aodong-shop.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/aodong.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/vendor/SOURCE.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/vendor/electro-cards.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/browser/vendor/upstream-readme.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/components/chrome.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/components/icons.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/data/model.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/agenda/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/day/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/editor/actions.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/editor/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/events/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/month/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/search/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/features/year/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/calendar/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/camera/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/chess/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/clock/features/alarms/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/clock/features/stopwatch/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/clock/features/timer/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/clock/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/ai-profile/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/ai-voice/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/assets/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/conversations/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/conversations/model.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/diary/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/mission/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/moments/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/moments/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/phone/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/presets/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/preview/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/sms/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/story55/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/tai-phone/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/features/voice-authoring/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/developer/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/files/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/catalog.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/deployment/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/editor.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/features/dev-skip/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/features/flow-d03/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/features/flow-d03/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/games/OPEN_SOURCE_CREDITS.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/games/arcade-ui.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/games/arcade.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/games/logic.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/games/pipe-network.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/preview.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/state.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/ghost/visuals.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/instagram/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/features/detail/attachment.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/features/detail/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/features/detail/policy.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/features/inbox/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/features/mission/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/features/mission/linked.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/kira/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mail/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/data/offline-macau-detail.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/data/offline-macau.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/data/places.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/features/story55/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/leaflet.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/maps/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/messages/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/messages/replica.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/messages/replica.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/messages/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/messages/vendor/LICENSE",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/messages/vendor/SOURCE.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/messages/vendor/foundphone-messages.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/art.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/contacts-seed.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/data.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/features/ai-replies/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/linked-contract-runtime.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/linked-contract-validator.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/linked-missions.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/mission.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/ouroboros-flow.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/session.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/mirage/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/music/features/library/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/music/features/player/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/music/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/music/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/call-engine-v2.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/call-hangup-intent.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/final-voice.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/portrait.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/preview-v2.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/preview-v3.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/settings/behavior.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/settings/parameters.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/voice-call.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/voice.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/noapp/worldbook/voice-worldbook-v3-original.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/components/icons.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/data/seed.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/actions/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/attachments/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/editor/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/folders/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/list/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/lock/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/search/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/features/sketch/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/notes/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/phone/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/phone/replica.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/phone/replica.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/phone/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/components/icons.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/data/demo.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/albums/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/collections/actions.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/collections/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/import/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/library/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/search/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/selection/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/viewer/actions.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/features/viewer/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/photos/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/reminders/features/lists/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/reminders/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/reminders/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/schedule/features/diary/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/schedule/features/diary/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/schedule/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/settings/features/battery/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/settings/features/details/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/settings/features/home/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/settings/features/rows/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/settings/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/settings/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/weather/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/weather/replica.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/weather/replica.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/weather/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/avatars.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/components/chat-view.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/components/group-avatar.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/components/icons.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/components/views.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/emoji/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/emoji/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/moments/data.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/moments/icons.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/moments/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/moments/model.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/moments/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/recall/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/recall/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/tts/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/features/tts/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/apps/wechat/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/components/chat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/editor/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/editor/assets/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/editor/conversations/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/editor/conversations/model.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/editor/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/editor/presets/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/editor/preview/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/features/avatar-cropper/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/features/avatar-cropper/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/app.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/assets/icons.png",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/assets/wallpaper.png",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/data.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/icons.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/old-index.html",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/schema-draft.sql",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/services.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/state.test.mjs",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/store.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/style.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/legacy/voice-draft.ts",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/main.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/action-protocol-v10.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/author-dialogue-examples.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/behavior-worldbook-v6.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/behavior.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/call-intent.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/channel-controls.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/character-motivations-v7.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/character-worldbook.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/conversation-focus-v8.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/conversation-momentum-v11.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/conversation-shape-v12.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/curiosity-memory-v9.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/facts.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/format.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/gateway.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/humanize.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/life-context.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/live-chat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/memory.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/model-config.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/original-worldbooks.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/phone-mcp/curiosity.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/phone-mcp/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/phone-mcp/protocol.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/phone-mcp/source-key.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/phone-mcp/vision.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/portuguese.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/proactive.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/relationship-bond.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/relationship-context.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/supabase-persona.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/tai-profile.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/test-controls.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/turn-quality.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/v10-mobile-preview.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/ai/voice-request-v11.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/bank.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/calendar.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/chess-invites.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/chess.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/commissions/attachment-flow.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/deep-links/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/id.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/invitations.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/authored-incoming.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/conversation-open.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/delivery.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/incoming-banner-queue.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/lifecycle/engine.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/lifecycle/legacy-d01.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/lifecycle/replies.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/phone-messages.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/phone-story-scheduler.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/preset-replies.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/read.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/messaging/timestamps.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/phone-data.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/presence.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/public-assets.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/reminders.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/router.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/storage.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story-engine/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/config.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/controller.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/final-recording.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/finale.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/flow-d03.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/legacy-content.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/mining-view.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/mining.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/projects.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/rebuild-contracts.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/rebuild.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/runtime.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/scripted-chat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/scripted-phone.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/state.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/test-snapshots.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/story55/views.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/supabase/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/unread-badges.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/asset-url.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/audio-store.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/call-speech.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/minimax-diagnostics.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/playback.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/tts-settings.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/unheard.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/voice-performance.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/voice-regex.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/voice-worldbook-source.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/services/voice/xitai-voice-direction.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/assets/history-2024-mar-jun.media.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d01/runtime.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d01/wechat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d02/dialogue.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d02/hardware.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d02/runtime.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d02/wechat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d03/contract.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d03/dialogue.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d03/moments.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d03/wechat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d04/contract.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d04/dialogue.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d04/lifecycle.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d04/wechat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d05/commissions.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d05/dialogue.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/d05/wechat.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/demo/seed.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/diary/entries.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/bundles/wechat-history-2024-mar-jun.bundle.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/catalog.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-20240311.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-20240312.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-03.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-04-extra.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-04.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-05.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-06-extra.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-06.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-07.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-08.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-09.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-10-extra.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-10.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-11.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2024-12.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2025-01.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2025-02.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2025-03.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2025-04.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat-history-2025-05.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D001/wechat.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D004/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D010/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D012/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D016/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D023/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D030/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D037/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D038/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D044/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D046/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D053/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D055/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D057/wechat.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D058/wechat.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D062/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D069/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D075/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D076/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D078/wechat.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D083/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/D089/messages.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/days/manifest.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/defaults.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/engine.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/io/export.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/io/format.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/io/import.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/presets/pending/2025-09-17.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/schemas/content.schema.json",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/story/story55/catalog.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/styles/base.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/styles/chess.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/styles/mirage.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/styles/motion.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/styles/new-apps.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/dom.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/feedback/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/gestures.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/haptics.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/icon-art.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/icon-assets.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/lock.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/navigation.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/pager.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/power/battery.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/power/controls.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/power/island.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/power/story.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/power/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/preload.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/registry.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/restart/index.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/restart/styles.css",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/runtime/controller.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/runtime/policy.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/shell.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/task-switcher.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/time/clock.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/time/tick-batch.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/ui.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "src/system/viewport.js",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "supabase/README.md",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "supabase/functions/tai-brain/index.ts",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "supabase/functions/tai-v8-persona/index.ts",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "supabase/migrations/20261102101524_ximeng_tai_backend_v1.sql",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "supabase/migrations/20261102102118_ximeng_tai_fk_indexes_v1.sql",
+      "disposition": "review-and-migrate",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ai-gateway.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ai-live-chat.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ai-model-selection.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ai-voice-tuning.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/aodong-storefront.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/asset-paths-audit.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/bank-ghost.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/browser-mission.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/calendar-conversations.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/calendar-ui.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/chat-lifecycle.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/chess-display.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/commission-unified-attachment.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d01-link-short-path-and-dev-skip.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d01-native-attachment-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d01-pipe-contact-refinement.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d01-story.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d02-flow.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d03-flow.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d03-story.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d04-story.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d05-content.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/d55-final-handoff.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/death-night.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/developer-voice-authoring.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/dom-map-ownership.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/editor.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/final-recording-controls.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/fixture-chat.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/framework.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ghost-arcade.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ghost-deploy-not-minigame.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ghost.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/history-2024-jul-oct.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/history-2024-march-june.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/history-2024-to-d1.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/history-2024.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/home-unread-badges.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ios-authored-delivery.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/linked-contract-delivery.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/lock-pager.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/map-startup-smoke.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/maps-places.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/mirage-ai-toggle.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/mirage-assets.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/mirage-noapp-oct31.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/mirage.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/motion-time.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/native-replica.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-autonomous-voice-repair.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-call-banner-receipts.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-call-linked-missions.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-call-v2.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-v2-preview.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-v3-channel-hangup.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-v3-preview.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/noapp-voice-regex-v3.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/notes-ui.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/notification-read.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/nov01-map-ghost-chinese.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/nov01-phone-restore-content.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/nov01-roster-time-voice-regression.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/nov01-story-ui-voice.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/nov01-voice-paths.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/pages-release.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/phone-runtime-policy.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/phone-ui.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/phone-unified-continuity.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/photos-ui.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/power-0300.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/power-reminders.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/preload-lockscreen.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/preset-import.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/presets.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/restart-timeline.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/restore-native-ui-history-diary.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/safari-audio-bytes.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/short-charge.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/sms-history55.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/stale-recording-path.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/status-battery.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-clock-pacing.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-clock-slider.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-default-migration.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-indexeddb-snapshots.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-noapp.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-rebuild.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-runtime.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-scripted-composer.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-scripted-phone.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/story55-snapshots.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/tai-life-call-repair.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/tai-phone-mcp.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/tai-phone-vision.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/tai-profile.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/tai-v8-supabase-persona.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/touch-gestures.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/voice-call.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/weather-phone-sms.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/wechat-conversation.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/wechat-moments-editor.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/wechat-moments.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/wechat-ui.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/world-clock.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/world-tick-batch.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/ximeng-ai-experience.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-author-dialogue-prompt.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-behavior-pacing.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-bond-call-portuguese-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-call-stable-timbre-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-dialogue-quality.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-humanize.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-json-voice-persona.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-lifelike-1031.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-minimax-iphone-diagnostics-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-persona-v5.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-phone-command-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-speech28-natural-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v10-action-protocol.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v10-mobile-preview.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v10-runtime-decisions.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v11-mobile-call-voice-quality.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v12-rhythm-guide-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v12-runtime-output-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v13-semicolon-40-runtime.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v6-worldbook-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v7-motivation-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v8-conversation-focus-20261102.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    },
+    {
+      "source": "tests/xitai-v9-curiosity-memory.test.mjs",
+      "disposition": "behavior-reference",
+      "status": "pending"
+    }
+  ]
+}
